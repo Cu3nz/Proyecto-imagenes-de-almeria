@@ -34,7 +34,7 @@ Para realizar una búsqueda, sigue estos pasos:
 3. Reemplaza `key` con tu clave de API personal.
 4. Cambia `&q=lo_que_quieras_buscar` por el término o palabra clave que deseas buscar.
 
-**Ejemplo de URL configurada:**
+**Ejemplo de URL configurada para mostrar imagenes de Almería:**
 
 ```php
 private const URL_API = "https://pixabay.com/api/?key=TU_CLAVE_API&q=almeria";
